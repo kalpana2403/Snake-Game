@@ -1,19 +1,0 @@
-Êþº¾   = 6   snakegame/GameFrame   javax/swing/JFrame serialVersionUID J 
-ConstantValue        <init> ()V Code
-   
-    snakegame/GamePanel
-  
-     add *(Ljava/awt/Component;)Ljava/awt/Component;  snake
-     setTitle (Ljava/lang/String;)V
-     setDefaultCloseOperation (I)V
-  ! " # setResizable (Z)V
-  % &  pack
-  ( ) # 
-setVisible
-  + , - setLocationRelativeTo (Ljava/awt/Component;)V LineNumberTable LocalVariableTable this Lsnakegame/GameFrame; panel Lsnakegame/GamePanel; 
-SourceFile GameFrame.java !                   
-      ‰     1*· 
-» Y· L*+¶ W*¶ *¶ *¶  *¶ $*¶ '*¶ *±    .   * 
-   	  
-      
-   "  &  +  0  /       1 0 1    % 2 3   4    5
